@@ -2,6 +2,13 @@
 
 This template provides a minimal setup to get React working in Vite with HMR (Hot Module Replacement) and includes some ESLint rules for better development practices.
 
+# Project Name
+
+This project is deployed and live at:
+
+[react-assignment-two-blue.vercel.app](https://react-assignment-two-blue.vercel.app)
+
+
 ## Available Plugins
 
 Currently, two official plugins are available for React in Vite:
