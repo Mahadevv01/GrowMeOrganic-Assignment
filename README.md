@@ -27,3 +27,8 @@ Configure the top-level `parserOptions` property like this:
     "tsconfigRootDir": "__dirname"
   }
 }
+# Project Name
+
+ This project is deployed and live at:
+
+ [react-assignment-two-blue.vercel.app](https://react-assignment-two-blue.vercel.app)
