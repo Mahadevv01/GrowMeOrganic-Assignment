@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite Application
 
 This template provides a minimal setup to get React working in Vite with HMR (Hot Module Replacement) and includes some ESLint rules for better development practices.
 
